@@ -1,5 +1,34 @@
 # 💫 About Me:
-HELLO! HI AM FATIMA. I AM PASSIONATE SOFTWARE ENGINEER AND WEB DEVELOPER. CURRENTLY , I AM FOCUSING ON MY CARRER.
+HELLO! HI AM FATIMA. I AM PASSIONATE SOFTWARE ENGINEER AND WEB DEVELOPER. CURRENTLY , I AM FOCUSING ON MY CARRER.# Hi there 👋, I'm a Software Engineering Student
+
+🎓 I am a passionate Software Engineering student with a strong interest in Web Development.
+💻 Currently learning and building projects using modern web technologies.
+🚀 I enjoy solving problems and continuously improving my coding skills.
+
+## 🌱 Currently Learning
+
+* HTML, CSS, JavaScript
+* Frontend Development
+* Modern Web Technologies
+
+## 🔧 Skills
+
+* 💻 HTML5, CSS3
+* ⚡ JavaScript (Beginner/Intermediate)
+* 🛠️ Git & GitHub
+
+## 🎯 Goals
+
+* Become a Professional Web Developer
+* Build real-world projects
+* Contribute to open-source
+
+## 📫 Connect with Me
+
+* GitHub: (your GitHub link here)
+
+✨ “Consistency is the key to success.”
+
 
 
 ## 🌐 Socials:
