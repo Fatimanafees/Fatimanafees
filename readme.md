@@ -1,5 +1,5 @@
 # 💫 About Me:
-HELLO! HI AM FATIMA. I AM PASSIONATE SOFTWARE ENGINEER AND WEB DEVELOPER. CURRENTLY , I AM FOCUSING ON MY CARRER.# Hi there 👋, I'm a Software Engineering Student
+HELLO! HI AM FATIMA. I AM PASSIONATE SOFTWARE ENGINEER AND Currently I am doing web development course. I AM FOCUSING ON MY CARRER.# Hi there 👋, I'm a Software Engineering Student
 
 🎓 I am a passionate Software Engineering student with a strong interest in Web Development.
 💻 Currently learning and building projects using modern web technologies.
