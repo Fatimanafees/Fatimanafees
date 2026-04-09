@@ -14,7 +14,7 @@ HELLO! HI AM FATIMA. I AM PASSIONATE SOFTWARE ENGINEER AND Currently I am doing 
 ## 🔧 Skills
 
 * 💻 HTML5, CSS3
-* ⚡ JavaScript (Beginner/Intermediate)
+* ⚡ JavaScript (Beginner)
 * 🛠️ Git & GitHub
 
 ## 🎯 Goals
