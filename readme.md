@@ -16,6 +16,9 @@ HELLO! HI AM FATIMA. I AM PASSIONATE SOFTWARE ENGINEER AND Currently I am doing 
 * 💻 HTML5, CSS3
 * ⚡ JavaScript (Beginner)
 * 🛠️ Git & GitHub
+* JAVA ,C++
+* CANVA REACT
+* 
 
 ## 🎯 Goals
 
